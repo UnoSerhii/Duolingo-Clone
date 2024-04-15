@@ -19,7 +19,7 @@ const Header = () => {
       <div className='lg:max-w-screen-lg mx-auto flex items-center justify-between h-full'>
         <div className='pt-8 pl-4 pb-7 flex items-center gap-x-3'>
           <Image src={logo} alt='logo' width={40} height={40} />
-          <Link href='/' className='text-xl font-extrabold text-yellow-400 tracking-wide'>
+          <Link href='/' className='text-xl font-extrabold text-green-500 tracking-wide'>
             Lingo
           </Link>
         </div>
