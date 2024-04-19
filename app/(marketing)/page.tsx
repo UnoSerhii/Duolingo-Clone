@@ -1,5 +1,5 @@
 import { Button } from '@/components/ui/button';
-import bg from '@/public/bg.png';
+import bg from '@/public/bg2.png';
 import {
   ClerkLoaded,
   ClerkLoading,
